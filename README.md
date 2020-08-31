@@ -9,3 +9,4 @@ Para renderizar la escena:
 
 ## Resultado
 La escena debería mostrarse como la siguiente:
+![PROY-scene](https://i.imgur.com/OP33Uw5.png)
