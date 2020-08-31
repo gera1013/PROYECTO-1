@@ -33,7 +33,7 @@ r.glLoadObj('aw101.obj', [0.6, 0.3, -0.2], [1/300, 1/300, 1/300], [0, -8, 0])
 
 ## BERIEV AIRPLANE
 print("\nBeriev...")
-r.active_shader = toonShader
+r.active_shader = gourad
 r.texture = Texture('beriev.bmp')
 r.glLoadObj('beriev.obj', posModel, [1/100, 1/100, 1/100], [0, 10, 0])
 
